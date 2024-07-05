@@ -4,6 +4,11 @@
 
 ### 📜 &nbsp; About me and my GitHub:
 
+<div>
+    <br>
+    - <samp><b>Though my primary concern is physics, I still highly engaged in developing processes related to scientific programming and computing, mathematical modeling and computer simulations.</b>
+</div>
+
 ### 🛰 &nbsp; Technologies:
 
 <p>
