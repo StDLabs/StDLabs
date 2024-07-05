@@ -5,7 +5,7 @@
 ### 📜 &nbsp; About me and my GitHub:
 
 <div>
-    - **Though my primary concern is physics, I still highly engaged in developing processes related to scientific
+    - Though my primary concern is physics, I still highly engaged in developing processes related to scientific
       programming and computing, mathematical modeling and computer simulations.
 </div>
 
