@@ -1,14 +1,14 @@
 ![Banner Image](Images/Banner.png)
 
-## Hello! 👋 I am Dimitri, a committed scientist and developer specializing in theoretical, mathematical and computational frameworks in physics
+### Hello! 👋 I am Dimitri, a committed scientist and developer specializing in theoretical, mathematical and computational frameworks in physics
 
-### 📜 &nbsp; About me and my GitHub:
+## 📜 &nbsp; About me and my GitHub:
 
 <div>
     * Though my primary concern is physics, I still highly engaged in developing processes related to scientific programming and computing, mathematical modeling and computer simulations.
 </div>
 
-### 🛰 &nbsp; Technologies:
+## 🛰 &nbsp; Technologies:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
