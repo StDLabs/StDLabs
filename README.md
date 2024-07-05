@@ -5,7 +5,7 @@
 ## 📜 &nbsp; About me and my GitHub:
 
 <img align="right" src="https://github.com/StDLabs/StDLabs/blob/main/Gifs/1111.gif" width="40%"/>
-<img align="right, bottom" src="https://github.com/StDLabs/StDLabs/blob/main/Gifs/lorenz3.gif" width="40%"/>
+<img align="bottom" src="https://github.com/StDLabs/StDLabs/blob/main/Gifs/lorenz3.gif" width="40%"/>
 
 - Though **my primary concern is physics**, I still highly engaged in developing processes related to scientific
 programming and computing, mathematical modeling and computer simulations.
