@@ -5,18 +5,19 @@
 ## 📜 &nbsp; About me and my GitHub:
 
 <img align="right" src="https://github.com/StDLabs/StDLabs/blob/main/Gifs/1111.gif" width="40%"/>
+<img align="right, bottom" src="https://github.com/StDLabs/StDLabs/blob/main/Gifs/lorenz3.gif" width="40%"/>
 
-- Though my primary concern is physics, I still highly engaged in developing processes related to scientific programming
-and computing, mathematical modeling and computer simulations.
-- Mathematical modeling and related processes play pivotal roles in modern scientific research processes.
+- Though **my primary concern is physics**, I still highly engaged in developing processes related to scientific
+programming and computing, mathematical modeling and computer simulations.
+- Mathematical modeling and related processes play pivotal roles in **modern scientific research processes**.
 These models are essential tools that help researchers understand complex systems, predict outcomes, and explore new
 hypotheses in ways that traditional experimental methods cannot.
-- My GitHub is a showcase of my core mathematical and programming tools which I utilize in my research activities.
-It is structured into a core “source” repository named MathTools and other connected project repositories.
-The main MathTools repository can be treated as a library of tools and a foundation for the use of modular programming
-technique. The other repositories are more like showrooms for particular projects mostly utilizing MathTools
-modules and scripts.
-- If you wish to know more about my major scientific activities, you could visit my LinkedIn profile,
+- **My GitHub is a showcase of my core mathematical and programming tools** which I utilize in my research activities.
+It is structured into a core “source” repository named [**MathTools**](https://github.com/StDLabs/MathTools) and other
+connected project repositories. The main MathTools repository can be treated as a library of tools and a foundation for
+the use of modular programming technique. The other repositories are more like **showrooms for particular projects**
+mostly utilizing MathTools modules and scripts.
+- If you wish to know more about my major **scientific activities**, you could visit my LinkedIn profile,
 where I present more relevant content as a physicist and a researcher. Feel free to contact me with any questions
 directly if you have any, I will be glad to answer.
 
