@@ -12,7 +12,7 @@ programming and computing, mathematical modeling and computer simulations.
 These models are essential tools that help researchers understand complex systems, predict outcomes, and explore new
 hypotheses in ways that traditional experimental methods cannot.
 
-<img align="right" src="https://github.com/StDLabs/StDLabs/blob/main/Gifs/lorenz3.gif" width="40%"/>
+<img align="right" src="https://github.com/StDLabs/StDLabs/blob/main/Gifs/lorenz3.gif" width="25%"/>
 
 * **My GitHub is a showcase of my core mathematical and programming tools** which I utilize in my research activities.
 It is structured into a core “source” repository named [**MathTools**](https://github.com/StDLabs/MathTools) and other
