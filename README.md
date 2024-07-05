@@ -11,7 +11,7 @@ programming and computing, mathematical modeling and computer simulations.
 
 * Mathematical modeling and related processes play pivotal roles in **modern scientific research processes**.
 These models are essential tools that help researchers understand complex systems, predict outcomes, and explore new
-hypotheses in ways that traditional experimental methods cannot.
+hypotheses in ways that traditional experimental methods cannot (the animation is one of the most famous examples).
 
 * **My GitHub is a showcase of my core mathematical and programming tools** which I utilize in my research activities.
 It is structured into a core “source” repository named [**MathTools**](https://github.com/StDLabs/MathTools) and other
