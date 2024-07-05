@@ -2,7 +2,9 @@
 
 ## Hello! 👋 I am Dimitri, a committed scientist and developer specializing in theoretical, mathematical and computational frameworks in physics
 
-### 🛠 &nbsp;Technologies:
+### 📜 &nbsp; About me and my GitHub:
+
+### 🛰 &nbsp; Technologies:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
