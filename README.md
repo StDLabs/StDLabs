@@ -33,7 +33,7 @@ directly if you have any, I will be glad to answer.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" height="40"/>&nbsp;
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Maple_lg2.png" title="Maple" alt="Maple" height="40"/>&nbsp;
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Matlab_Logo.png" title="Matlab" alt="Matlab" height="40"/>&nbsp;
-<img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Latex-icon.png" title="LaTeX" alt="LaTeX" height="40"/>&nbsp;
+<img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Latex-icon2.png" title="LaTeX" alt="LaTeX" height="40"/>&nbsp;
 </p>
 
 <!--
