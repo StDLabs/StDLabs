@@ -23,6 +23,8 @@ mostly utilizing MathTools modules and scripts.
 where I present more relevant content as a physicist and a researcher. Feel free to contact me with any questions
 directly if you have any, I will be glad to answer.
 
+<a href="https://www.linkedin.com/in/dimitri-strekalov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+
 ## 🛰 &nbsp; Technologies:
 
 <p>
