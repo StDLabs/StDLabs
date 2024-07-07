@@ -26,7 +26,7 @@ directly if you have any, I will be glad to answer.
 <a href="https://www.linkedin.com/in/dimitri-strekalov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://t.me/StDimitri"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 
-## 🛰 &nbsp; Scientific Programming Skills:
+## 💻 &nbsp; Scientific Programming Skills:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="40"/>&nbsp;
