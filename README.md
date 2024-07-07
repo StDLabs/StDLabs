@@ -35,7 +35,7 @@ directly if you have any, I will be glad to answer.
 <img src="https://images.squarespace-cdn.com/content/6596dfc539fa52603ef8b8d4/1704482165515-P512Q484O8BPGP5D7YQ2/scipy%2Bpng%2BHQ.png?format=1500w&content-type=image%2Fpng" title="SciPy" alt="SciPy" height="40"/>
 <img src="https://scipy-lectures.org/_images/mayavi-logo.png" title="Mayavi" alt="Mayavi" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" title="Pandas" alt="Pandas" height="40"/>&nbsp;
-<img src="https://static.javatpoint.com/tutorial/openpyxl/images/python-openpyxl-tutorial.png" title="OpenPyXL" alt="OpenPyXL" height="40"/>&nbsp;
+<img src="https://statusneo.com/wp-content/uploads/2023/04/Excel_Python1.png" title="OpenPyXL" alt="OpenPyXL" height="40"/>&nbsp;
 </p>
 
 ## 🛰 &nbsp; Environments and Software:
@@ -46,5 +46,5 @@ directly if you have any, I will be glad to answer.
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Maple_lg2.png" title="Maple" alt="Maple" height="40"/>&nbsp;
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Matlab_Logo.png" title="Matlab" alt="Matlab" height="40"/>&nbsp;
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Latex-icon2.png" title="LaTeX" alt="LaTeX" height="40"/>&nbsp;
-<img src="https://png.pngtree.com/element_our/sm/20180627/sm_5b33460f04516.jpg" title="Excel and Spreadsheets" alt="Excel and Spreadsheets" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" title="Excel and Spreadsheets" alt="Excel and Spreadsheets" height="40"/>&nbsp;
 </p>
