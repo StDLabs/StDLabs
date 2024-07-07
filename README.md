@@ -46,5 +46,5 @@ directly if you have any, I will be glad to answer.
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Maple_lg2.png" title="Maple" alt="Maple" height="40"/>&nbsp;
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Matlab_Logo.png" title="Matlab" alt="Matlab" height="40"/>&nbsp;
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Latex-icon2.png" title="LaTeX" alt="LaTeX" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/1200px-Microsoft_Excel_2013-2019_logo.svg.png" title="Excel and Spreadsheets" alt="Excel and Spreadsheets" height="40"/>&nbsp;
+<img src="https://www.pyxll.com/blog/wp-content/uploads/2018/07/excel-to-xlsx.png.webp" title="Spreadsheets, OpenPyXL" alt="Spreadsheets, OpenPyXL" height="40"/>&nbsp;
 </p>
