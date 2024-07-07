@@ -30,10 +30,10 @@ directly if you have any, I will be glad to answer.
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" height="40"/>
-<img src="https://banner2.cleanpng.com/20180515/wlq/kisspng-scipy-numpy-python-scikit-learn-pip-5afac9ed390699.7554647915263851332336.jpg" title="SciPy" alt="SciPy" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" height="40"/>
+<img src="https://images.squarespace-cdn.com/content/6596dfc539fa52603ef8b8d4/1704482165515-P512Q484O8BPGP5D7YQ2/scipy%2Bpng%2BHQ.png?format=1500w&content-type=image%2Fpng" title="SciPy" alt="SciPy" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" title="Pandas" alt="Pandas" height="40"/>&nbsp;
 </p>
 
 ## 🛰 &nbsp; Environments and Software:
