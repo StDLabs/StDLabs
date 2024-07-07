@@ -35,7 +35,7 @@ directly if you have any, I will be glad to answer.
 <img src="https://images.squarespace-cdn.com/content/6596dfc539fa52603ef8b8d4/1704482165515-P512Q484O8BPGP5D7YQ2/scipy%2Bpng%2BHQ.png?format=1500w&content-type=image%2Fpng" title="SciPy" alt="SciPy" height="40"/>
 <img src="https://scipy-lectures.org/_images/mayavi-logo.png" title="Mayavi" alt="Mayavi" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" title="Pandas" alt="Pandas" height="40"/>&nbsp;
-<img src="https://statusneo.com/wp-content/uploads/2023/04/Excel_Python1.png" title="OpenPyXL" alt="OpenPyXL" height="40"/>&nbsp;
+<img src="https://sebee.site/wp-content/uploads/2020/11/openpyxl.png" title="OpenPyXL" alt="OpenPyXL" height="40"/>&nbsp;
 </p>
 
 ## 🛰 &nbsp; Environments and Software:
