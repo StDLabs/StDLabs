@@ -33,6 +33,7 @@ directly if you have any, I will be glad to answer.
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" height="40"/>
 <img src="https://images.squarespace-cdn.com/content/6596dfc539fa52603ef8b8d4/1704482165515-P512Q484O8BPGP5D7YQ2/scipy%2Bpng%2BHQ.png?format=1500w&content-type=image%2Fpng" title="SciPy" alt="SciPy" height="40"/>
+<img src="https://scipy-lectures.org/_images/mayavi-logo.png" title="Mayavi" alt="Mayavi" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpCB6Du8H6Lrm5WIbDcdW59uqoSiL-eeTlw&s" title="Pandas" alt="Pandas" height="40"/>&nbsp;
 </p>
 
