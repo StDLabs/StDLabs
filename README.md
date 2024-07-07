@@ -1,6 +1,6 @@
 ![Banner Image](Images/Banner.png)
 
-### Hello! 👋 I am Dimitri, a committed scientist and programmer specializing in theoretical, mathematical and computational frameworks in physics
+### Hello! 👋 I am Dimitri, a committed scientist and a programmer specializing in theoretical, mathematical and computational frameworks in physics
 
 ## 📜 &nbsp; About me and my GitHub:
 
@@ -26,27 +26,22 @@ directly if you have any, I will be glad to answer.
 <a href="https://www.linkedin.com/in/dimitri-strekalov"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="https://t.me/StDimitri"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"></a>
 
-## 🛰 &nbsp; Technologies:
+## 🛰 &nbsp; Scientific Programming Skills:
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="Matplotlib" alt="Matplotlib" height="40"/>
+<img src="https://banner2.cleanpng.com/20180515/wlq/kisspng-scipy-numpy-python-scikit-learn-pip-5afac9ed390699.7554647915263851332336.jpg" title="SciPy" alt="SciPy" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" height="40"/>&nbsp;
+</p>
+
+## 🛰 &nbsp; Environments and Software:
+
+<p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" height="40"/>&nbsp;
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Maple_lg2.png" title="Maple" alt="Maple" height="40"/>&nbsp;
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Matlab_Logo.png" title="Matlab" alt="Matlab" height="40"/>&nbsp;
 <img src="https://github.com/StDLabs/StDLabs/blob/main/Icons/Latex-icon2.png" title="LaTeX" alt="LaTeX" height="40"/>&nbsp;
 </p>
-
-<!--
-**StDLabs/StDLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
