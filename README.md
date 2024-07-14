@@ -7,11 +7,12 @@
 * Though **my primary concern is physics**, I still highly engaged in developing processes related to scientific
 programming and computing, mathematical modeling and computer simulations.
 
+<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Field_lines_dipole.gif" width="20%"/>
+<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Lattice_isosurfaces.gif" width="20%"/>
+
 * Mathematical modeling and related processes play pivotal roles in **modern scientific research processes**.
 These models are essential tools that help researchers understand complex systems, predict outcomes, and explore new
 hypotheses in ways that traditional experimental methods cannot.
-
-<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Field_lines_dipole.gif" width="30%"/>
 
 * **My GitHub is a showcase of my core mathematical and programming tools** which I utilize in my research activities.
 It is structured into a core “source” repository named [**MathTools**](https://github.com/StDLabs/MathTools) and other
