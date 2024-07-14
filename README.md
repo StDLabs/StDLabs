@@ -7,7 +7,7 @@
 * Though **my primary concern is physics**, I still highly engaged in developing processes related to scientific
 programming and computing, mathematical modeling and computer simulations.
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="0px" cellpadding="0px" cellspacing="0px">
 <tr>
 <td>
 
@@ -18,7 +18,7 @@ hypotheses in ways that traditional experimental methods cannot.
 </td>
 <td>
 
-<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Field_lines_dipole.gif" width="17%"/>
+<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Field_lines_dipole.gif"/>
 
 </td>
 </tr>
@@ -35,7 +35,7 @@ my project on [**the electrostatics of point charges**](https://github.com/StDLa
 </td>
 <td>
 
-<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Lattice_isosurfaces.gif" width="20%"/>
+<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Lattice_isosurfaces.gif"/>
 
 </td>
 </tr>
