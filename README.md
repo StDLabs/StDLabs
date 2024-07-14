@@ -17,7 +17,8 @@ hypotheses in ways that traditional experimental methods cannot (the animation i
 It is structured into a core “source” repository named [**MathTools**](https://github.com/StDLabs/MathTools) and other
 connected project repositories. The main MathTools repository can be treated as a library of tools and a foundation for
 the use of modular programming technique. The other repositories are more like **showrooms for particular projects**
-mostly utilizing MathTools modules and scripts.
+mostly utilizing MathTools modules and scripts. For example, you could visit
+my project on [**the electrostatics of point charges**](https://github.com/StDLabs/DiscreteElecStat).
 
 * If you wish to know more about my major **scientific activities**, you could visit my LinkedIn profile,
 where I present more relevant content as a physicist and a researcher. Feel free to contact me with any questions
