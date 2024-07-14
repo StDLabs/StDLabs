@@ -8,6 +8,7 @@
 programming and computing, mathematical modeling and computer simulations.
 
 <img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Field_lines_dipole.gif" width="20%"/>
+
 <img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Lattice_isosurfaces.gif" width="20%"/>
 
 * Mathematical modeling and related processes play pivotal roles in **modern scientific research processes**.
