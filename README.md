@@ -4,10 +4,10 @@
 
 ## 📜 &nbsp; About me and my GitHub:
 
+<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Field_lines_dipole.gif" width="30%"/>
+
 * Though **my primary concern is physics**, I still highly engaged in developing processes related to scientific
 programming and computing, mathematical modeling and computer simulations.
-
-<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Field_lines_dipole.gif" width="30%"/>
 
 * Mathematical modeling and related processes play pivotal roles in **modern scientific research processes**.
 These models are essential tools that help researchers understand complex systems, predict outcomes, and explore new
