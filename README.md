@@ -7,7 +7,7 @@
 * Though **my primary concern is physics**, I still highly engaged in developing processes related to scientific
 programming and computing, mathematical modeling and computer simulations.
 
-<table border="0px" cellpadding="0px" cellspacing="0px">
+<table border="none">
 <tr>
 <td>
 
