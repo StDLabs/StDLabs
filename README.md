@@ -7,13 +7,23 @@
 * Though **my primary concern is physics**, I still highly engaged in developing processes related to scientific
 programming and computing, mathematical modeling and computer simulations.
 
-<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Field_lines_dipole.gif" width="17%"/>
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td>
 
 * Mathematical modeling and related processes play pivotal roles in **modern scientific research processes**.
 These models are essential tools that help researchers understand complex systems, predict outcomes, and explore new
 hypotheses in ways that traditional experimental methods cannot.
 
-<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Lattice_isosurfaces.gif" width="20%"/>
+</td>
+<td>
+
+<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Field_lines_dipole.gif" width="17%"/>
+
+</td>
+</tr>
+<tr>
+<td>
 
 * **My GitHub is a showcase of my core mathematical and programming tools** which I utilize in my research activities.
 It is structured into a core “source” repository named [**MathTools**](https://github.com/StDLabs/MathTools) and other
@@ -21,6 +31,15 @@ connected project repositories. The main MathTools repository can be treated as 
 the use of modular programming technique. The other repositories are more like **showrooms for particular projects**
 mostly utilizing MathTools modules and scripts. For example, you could visit
 my project on [**the electrostatics of point charges**](https://github.com/StDLabs/DiscreteElecStat).
+
+</td>
+<td>
+
+<img align="right" src="https://github.com/StDLabs/DiscreteElecStat/blob/main/Content/Lattice_isosurfaces.gif" width="20%"/>
+
+</td>
+</tr>
+</table>
 
 * If you wish to know more about my major **scientific activities**, you could visit my LinkedIn profile,
 where I present more relevant content as a physicist and a researcher. Feel free to contact me with any questions
