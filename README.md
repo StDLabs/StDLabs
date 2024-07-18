@@ -1,4 +1,4 @@
-![Banner Image](Images/Banner1.png)
+![Banner Image](Images/Banner_1.png)
 
 ### Hello! 👋 I am Dimitri, a committed scientist and a programmer specializing in theoretical, mathematical and computational frameworks in physics
 
